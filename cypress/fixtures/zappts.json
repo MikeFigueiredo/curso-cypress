@@ -1,0 +1,8 @@
+{
+    "method": "POST",
+    "url": "https://reqres.in/api/users",
+    "body": {
+        "name": "Mike Figueiredo",
+        "job": "QA Analyst"           
+    }
+}

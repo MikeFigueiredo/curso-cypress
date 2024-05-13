@@ -1,0 +1,14 @@
+{
+    "loginCargozilla": "Suporte",
+    "senhaLoginCargozilla": "803Q#dC!",
+    "cnpjProprietario": "55.127.252/0001-78",
+    "rgProprietario": "586203325",
+    "nomeProprietario": "SANTORO REPRESENTACOES E COMERCIO LTDA",
+    "nomeOficialProprietario": "SANTORO REPRESENTACOES",
+    "emailProprietario": "testeproprietario@teste.com.br",
+    "observacaoCadastroProprietario": "Esse é um teste automatizado para verificar a integração com a target no novo cadastro de uma pessoa",
+    "telefoneProprietario": "11985625300",
+    "telefoneFixoProprietario": "1185632022",
+    "rntrcProprietario": "8563202",
+    "esperaUmNinuto": 60000
+}
